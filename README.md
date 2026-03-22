@@ -4,7 +4,7 @@
 
 # hey, it's Udula 👋
 
-> *"hehehe... just kidding... not really."*
+> *Once you do the hard stuff, it becomes not that hard."*
 
 
 ---
