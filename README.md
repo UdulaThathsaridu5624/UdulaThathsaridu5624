@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/Reg-hehehe.gif" width="600" alt="hehehe"/>
+<img src="assets/Reg-hehehe.gif" width="500" alt="hehehe"/>
 
 # hey, it's Udula 👋
 
