@@ -4,7 +4,7 @@
 
 # hey, it's Udula 👋
 
-> *Once you do the hard stuff, it becomes not that hard."*
+> *"Once you do the hard stuff, it becomes not that hard."*
 
 
 ---
